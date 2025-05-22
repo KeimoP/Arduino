@@ -11,6 +11,19 @@
         "realImage": "paris/Potentiometer.png",
         "digitalImage": "digital/Potentiometer.png",
         "description": "Reguleeritav takisti, mida saab keerata.",
+        "classes": "comparison-container"
+    },
+    {
+        "title": "Servomootor",
+        "realImage": "paris/Servo.png",
+        "digitalImage": "digital/Servo.png",
+        "description": "Täpselt liikumist reguleeriv mootor.",
+        "classes": "comparison-container"
+    },
+    {
+        "title": "Takistid",
+        "realImage": "paris/Resistors.jpg",
+        "digitalImage": "digital/Resistor.png",
         "description": "Piiravad elektrivoolu, et seadmed töötaksid õigesti.",
         "classes": "comparison-container"
     },
